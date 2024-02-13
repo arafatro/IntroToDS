@@ -7,7 +7,7 @@
 #### Room: 7.33
 
 ### Packages 
-* numpy
+* NumPy
 * matplotlib
 * pandas 
 * sklearn
@@ -18,9 +18,8 @@
 
 | Reference Week | Practical |
 | :-: | :- | 
-| Feb 13  | Introduction |
-| Feb 20 | Numpy |
-| Feb 27 | Library Introduction |
+| Feb 20  | Introduction |
+| Feb 27 | Numpy |
 | Mar 05 | Matplotlib |
 | Mar 12 | Clustering |
 | Mar 19 | Regression |
