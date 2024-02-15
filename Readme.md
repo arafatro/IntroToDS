@@ -4,7 +4,7 @@
 
 #### Arafat Md Easin
 #### email: arafatmdeasin@inf.elte.hu
-#### Room: 7.33
+#### Room: 7.33 (North Block)
 
 ### Packages 
 * NumPy
@@ -23,14 +23,35 @@
 | Mar 05 | Matplotlib |
 | Mar 12 | Clustering |
 | Mar 19 | Regression |
-| Mar 26 | Preliminaries To ML |
-| Apr 02 | **Spring Break** |
+| Mar 26 | Group Formation and Topic Selection |
+| Apr 02 | **Spring Break-No Class** |
 | Apr 09 | Classification |
 | Apr 16 | Pandas |
-| Apr 23 | Recommender Systems |
+| Apr 23 | Data Types - Time series, Text, Images |
 | Apr 30 | Preprocessing |
 | May 07 | Frequent Pattern Mining |
 | May 14 | Consultation |
+
+> [!NOTE]
+> Semester Project (30 Points).
+> Group Work of 4 students/group - One Team Leader.
+> Presentation at the end of the semester. 
+
+> [!TIP]
+> Learning the Data science-based Python materials to prepare yourself for the final project.
+> Select a data type from the listed dataset websites below.
+> Create a group by yourself and think about the semester project. 
+
+> [!IMPORTANT]
+> Presens is MANDATORY; as students have to earn certain points to PASS the practice.
+> Ten quizzes, at the beginning of each practical class (10x1 = 10 points).
+> Students can start the project work after the Spring break (Approximately can get 1 month to do this). 
+
+> [!WARNING]
+> Students may miss at most 4 classes
+
+> [!CAUTION]
+> If students miss more classes, automatically FAIL the course! 
 
 ### Dataset websites
 * http://lib.stat.cmu.edu/datasets/
