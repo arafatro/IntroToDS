@@ -27,8 +27,8 @@
 | Apr 02 | **Spring Break-No Class** |
 | Apr 09 | Classification |
 | Apr 16 | Pandas |
-| Apr 23 | Data Types - Time series, Text, Images |
-| Apr 30 | Preprocessing |
+| Apr 23 | Preprocessing |
+| Apr 30 | Data Types - Time series, Text, Images |
 | May 07 | Frequent Pattern Mining |
 | May 14 | Consultation |
 
