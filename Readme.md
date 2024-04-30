@@ -28,13 +28,13 @@
 | Apr 09 | Classification |
 | Apr 16 | Pandas |
 | Apr 23 | Preprocessing |
-| Apr 30 | Data Types - Time series, Text, Images |
-| May 07 | Frequent Pattern Mining |
+| Apr 30 | Frequent Pattern Mining |
+| May 07 | Data Types - Time series, Text, Images |
 | May 14 | Consultation |
 
 > [!NOTE]
 > Semester Project (30 Points).
-> Group Work of 4 students/group - One Team Leader.
+> Group Work of 3-5 students/group - One Team Leader.
 > Presentation at the end of the semester. 
 
 > [!TIP]
