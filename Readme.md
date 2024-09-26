@@ -18,19 +18,19 @@
 
 | Reference Week | Practical |
 | :-: | :- | 
-| Feb 20  | Introduction |
-| Feb 27 | Numpy |
-| Mar 05 | Matplotlib |
-| Mar 12 | Clustering |
-| Mar 19 | Regression |
-| Mar 26 | Group Formation and Topic Selection |
-| Apr 02 | **Spring Break-No Class** |
-| Apr 09 | Classification |
-| Apr 16 | Pandas |
-| Apr 23 | Preprocessing |
-| Apr 30 | Frequent Pattern Mining |
-| May 07 | Data Types - Time series, Text, Images |
-| May 14 | Consultation |
+| 1st Practice | Introduction |
+| 2nd Practice | Numpy |
+| 3rd Practice | Matplotlib |
+| 4th Practice | Clustering |
+| 5th Practice | Regression |
+| 6th Practice | Group Formation and Topic Selection |
+| No Class | **Autumn Break** |
+| 7th Practice | Classification |
+| 8th Practice | Pandas |
+| 9th Practice | Preprocessing |
+| 10th Practice | Frequent Pattern Mining |
+| 11th Practice | Data Types - Time series, Text, Images |
+| 12th Practice | Consultation |
 
 > [!NOTE]
 > Semester Project (30 Points).
