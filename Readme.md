@@ -22,11 +22,11 @@
 | 2nd Practice | Numpy |
 | 3rd Practice | Matplotlib |
 | 4th Practice | Clustering |
-| 5th Practice | Regression |
+| 5th Practice | Pandas |
 | 6th Practice | Group Formation and Topic Selection |
 | No Class | **Autumn Break** |
 | 7th Practice | Classification |
-| 8th Practice | Pandas |
+| 8th Practice | Regression |
 | 9th Practice | Preprocessing |
 | 10th Practice | Frequent Pattern Mining |
 | 11th Practice | Data Types - Time series, Text, Images |
