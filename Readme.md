@@ -23,11 +23,11 @@
 | 3rd Practice | Matplotlib |
 | 4th Practice | Clustering |
 | 5th Practice | Pandas |
-| 6th Practice | Mid Examination |
-| No Class | **Autumn Break** |
-| 7th Practice | Classification |
-| 8th Practice | Regression |
-| 9th Practice | Preprocessing |
+| 6th Practice | Preprocessing |
+| No Class | Mid Examination |
+| 7th Practice | **Autumn Break** |
+| 8th Practice | Classification |
+| 9th Practice | Regression |
 | 10th Practice | Frequent Pattern Mining |
 | 11th Practice | Data Types - Time series, Text, Images |
 | 12th Practice | Final Examination |
