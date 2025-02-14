@@ -18,40 +18,51 @@
 
 Based on our revised lecture order for better student understanding, the topics are reorganized as follows:
 
-| Reference Week   | Practical                                                     |
-| ---------------- | --------------------------------------------------------------|
-| **1st Practice** | Introduction                                                  |
-| **2nd Practice** | NumPy                                                         |
-| **3rd Practice** | Pandas                                                        |
-| **4th Practice** | Preprocessing                                                 |
-| **5th Practice** | **Spring Break**                                              |
-| **6th Practice** | Matplotlib & Exploratory Data Analysis (EDA)                  |
-| **No Class**     | Clustering                                                    |
-| **7th Practice** | Mid Examination                                               |
-| **8th Practice** | Regression                                                    |
-| **9th Practice** | Classification                                                |
-| **10th Practice**| Frequent Pattern Mining / Model Evaluation                    |
-| **11th Practice**| Data Types – Time Series, Text, Images                        |
-| **12th Practice**| Final Examination                                             |
+| Reference Week    | Practical                                                                                             |
+| ----------------- | ----------------------------------------------------------------------------------------------------- |
+| **1st Practice**  | **Introduction to Data Science**  
+Overview of data science, its applications, and the DS pipeline.                                   |
+| **2nd Practice**  | **NumPy**  
+Working with arrays and numerical operations.                                                       |
+| **3rd Practice**  | **Pandas**  
+Data manipulation and DataFrame operations.                                                         |
+| **4th Practice**  | **Preprocessing**  
+Data cleaning, handling missing values, normalization, and encoding.                                |
+| **5th Practice**      | **Spring Break / Mid Examination**                                                                  |
+| **6th Practice**  | **Matplotlib**  
+Creating basic visualizations to explore data.                                                      |
+| **7th Practice**  | **Exploratory Data Analysis (EDA)**  
+Techniques for summarizing main characteristics of datasets through visualization and statistics.   |
+| **8th Practice**  | **Regression**  
+Introduction to supervised learning for continuous outcomes.                                        |
+| **9th Practice**  | **Classification**  
+Supervised learning for categorical outcomes.                                                       |
+| **10th Practice**  | **Clustering**  
+Unsupervised learning techniques to identify natural groupings in the data.                           |
+| **11th Practice** | **Model Evaluation and Validation**  
+Assessing model performance, cross-validation, and error metrics.                                   |
+| **12th Practice** | **Pázmány-day - No Classes** |
+| **13th Practice** | **Final Examination**   
 
-> **Note:**  
-> **Semester Project:**  
-> Group Work or Individual Presentation at the end of the semester.
-> 
-> **Tip:**  
-> Prepare for your final project by studying the data science-based Python materials.  
-> Select a data type from one of the dataset websites listed below and form your project groups accordingly.
-> 
-> **Important:**  
-> Attendance is MANDATORY; students must earn the required points to PASS the practical component.
-> - Ten quizzes will be administered—one at the beginning of each practical class.
-> - Project work may begin after the Spring break (students typically have about one month for project development).
-> 
-> **Warning:**  
-> Students may miss at most 4 classes.
-> 
-> **Caution:**  
-> Missing more than 4 classes will result in an automatic FAIL for the course!
+> [!NOTE]
+> Semester Project
+> Group Work or Individual Presentation at the end of the semester. 
+
+> [!TIP]
+> Learn the data science-based Python materials to prepare for the final project.
+> Select a data type from the listed dataset websites below.
+> Create a group by yourself and think about the semester project. 
+
+> [!IMPORTANT]
+> Presens is MANDATORY; students must earn certain points to PASS the practice.
+> Ten quizzes, at the beginning of each practical class
+> Students can start the project work after the Spring break (Approximately can get 1 month to do this). 
+
+> [!WARNING]
+> Students may miss at most 4 classes
+
+> [!CAUTION]
+> If students miss more classes, automatically FAIL the course! 
 
 ## Dataset Websites
 - [CMU Datasets](http://lib.stat.cmu.edu/datasets/)
