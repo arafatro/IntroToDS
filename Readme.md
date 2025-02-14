@@ -1,61 +1,61 @@
 # Introduction to Data Science
 
-## Personal information
+## Personal Information
 
-#### Arafat Md Easin
-#### email: arafatmdeasin@inf.elte.hu
-#### Room: 7.33 (North Block)
+**Arafat Md Easin**  
+**Email:** [arafatmdeasin@inf.elte.hu](mailto:arafatmdeasin@inf.elte.hu)  
+**Room:** 7.25 (North Block)
 
-### Packages 
-* NumPy
-* matplotlib
-* pandas 
-* sklearn
-* seaborn
-* mlxtend
+## Packages
+- NumPy
+- matplotlib
+- pandas
+- sklearn
+- seaborn
+- mlxtend
 
-### Course Calendar
+## Updated Course Calendar
 
-| Reference Week | Practical |
-| :-: | :- | 
-| 1st Practice | Introduction |
-| 2nd Practice | Numpy |
-| 3rd Practice | Matplotlib |
-| 4th Practice | Clustering |
-| 5th Practice | Pandas |
-| 6th Practice | Preprocessing |
-| No Class | Mid Examination |
-| 7th Practice | **Autumn Break** |
-| 8th Practice | Classification |
-| 9th Practice | Regression |
-| 10th Practice | Frequent Pattern Mining |
-| 11th Practice | Data Types - Time series, Text, Images |
-| 12th Practice | Final Examination |
+Based on our revised lecture order for better student understanding, the topics are reorganized as follows:
 
-> [!NOTE]
-> Semester Project (30 Points).
-> Group Work of 3-5 students/group - One Team Leader.
-> Presentation at the end of the semester. 
+| Reference Week   | Practical                                                     |
+| ---------------- | --------------------------------------------------------------|
+| **1st Practice** | Introduction                                                  |
+| **2nd Practice** | NumPy                                                         |
+| **3rd Practice** | Pandas                                                        |
+| **4th Practice** | Preprocessing                                                 |
+| **5th Practice** | **Spring Break**                                              |
+| **6th Practice** | Matplotlib & Exploratory Data Analysis (EDA)                  |
+| **No Class**     | Clustering                                                    |
+| **7th Practice** | Mid Examination                                               |
+| **8th Practice** | Regression                                                    |
+| **9th Practice** | Classification                                                |
+| **10th Practice**| Frequent Pattern Mining / Model Evaluation                    |
+| **11th Practice**| Data Types – Time Series, Text, Images                        |
+| **12th Practice**| Final Examination                                             |
 
-> [!TIP]
-> Learning the Data science-based Python materials to prepare yourself for the final project.
-> Select a data type from the listed dataset websites below.
-> Create a group by yourself and think about the semester project. 
+> **Note:**  
+> **Semester Project:**  
+> Group Work or Individual Presentation at the end of the semester.
+> 
+> **Tip:**  
+> Prepare for your final project by studying the data science-based Python materials.  
+> Select a data type from one of the dataset websites listed below and form your project groups accordingly.
+> 
+> **Important:**  
+> Attendance is MANDATORY; students must earn the required points to PASS the practical component.
+> - Ten quizzes will be administered—one at the beginning of each practical class.
+> - Project work may begin after the Spring break (students typically have about one month for project development).
+> 
+> **Warning:**  
+> Students may miss at most 4 classes.
+> 
+> **Caution:**  
+> Missing more than 4 classes will result in an automatic FAIL for the course!
 
-> [!IMPORTANT]
-> Presens is MANDATORY; as students have to earn certain points to PASS the practice.
-> Ten quizzes, at the beginning of each practical class (10x1 = 10 points).
-> Students can start the project work after the Spring break (Approximately can get 1 month to do this). 
-
-> [!WARNING]
-> Students may miss at most 4 classes
-
-> [!CAUTION]
-> If students miss more classes, automatically FAIL the course! 
-
-### Dataset websites
-* http://lib.stat.cmu.edu/datasets/
-* https://www.kaggle.com/
-* https://www.datasetlist.com/
-* https://archive.ics.uci.edu/ml/index.php
-* https://datasetsearch.research.google.com/
+## Dataset Websites
+- [CMU Datasets](http://lib.stat.cmu.edu/datasets/)
+- [Kaggle](https://www.kaggle.com/)
+- [DatasetList](https://www.datasetlist.com/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
