@@ -5,6 +5,8 @@
 **Arafat Md Easin**  
 **Email:** [arafatmdeasin@inf.elte.hu](mailto:arafatmdeasin@inf.elte.hu)  
 **Room:** 7.25 (North Block)
+> Please contact before you want to pay a visit
+
 
 ## Packages
 - NumPy
