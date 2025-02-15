@@ -56,7 +56,7 @@ Assessing model performance, cross-validation, and error metrics.               
 > Create a group by yourself and think about the semester project. 
 
 > [!IMPORTANT]
-> Presens is MANDATORY; students must earn certain points to PASS the practice.
+> Presence is 100% MANDATORY; students must earn certain points to PASS the practice.
 > Ten quizzes, at the beginning of each practical class
 > Students can start the project work after the Spring break (Approximately can get 1 month to do this). 
 
@@ -64,7 +64,7 @@ Assessing model performance, cross-validation, and error metrics.               
 > Students may miss at most 4 classes
 
 > [!CAUTION]
-> If students miss more classes, automatically FAIL the course! 
+> If students miss more classes, they automatically FAIL the course! 
 
 ## Dataset Websites
 - [CMU Datasets](http://lib.stat.cmu.edu/datasets/)
