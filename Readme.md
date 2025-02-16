@@ -23,14 +23,14 @@ Based on our revised lecture order for better student understanding, the topics 
 | Reference Week    | Practical                                                                                             |
 | ----------------- | ----------------------------------------------------------------------------------------------------- |
 | **1st Practice**  | **Introduction to Data Science**  
-Overview of data science, its applications, and the DS pipeline.                                   |
+Overview of data science, its applications, and the DS pipeline.                                    |
 | **2nd Practice**  | **NumPy**  
 Working with arrays and numerical operations.                                                       |
 | **3rd Practice**  | **Pandas**  
 Data manipulation and DataFrame operations.                                                         |
 | **4th Practice**  | **Preprocessing**  
 Data cleaning, handling missing values, normalization, and encoding.                                |
-| **5th Practice**      | **Spring Break / Mid Examination**                                                                  |
+| **5th Practice**      | **Spring Break /**                                                        |
 | **6th Practice**  | **Matplotlib**  
 Creating basic visualizations to explore data.                                                      |
 | **7th Practice**  | **Exploratory Data Analysis (EDA)**  
@@ -40,11 +40,11 @@ Introduction to supervised learning for continuous outcomes.                    
 | **9th Practice**  | **Classification**  
 Supervised learning for categorical outcomes.                                                       |
 | **10th Practice**  | **Clustering**  
-Unsupervised learning techniques to identify natural groupings in the data.                           |
+Unsupervised learning techniques to identify natural groupings in the data.                         |
 | **11th Practice** | **Model Evaluation and Validation**  
 Assessing model performance, cross-validation, and error metrics.                                   |
 | **12th Practice** | **Pázmány-day - No Classes** |
-| **13th Practice** | **Final Examination**   
+| **13th Practice** | **Review Class or Counseling Session**   
 
 > [!NOTE]
 > Semester Project
