@@ -30,7 +30,7 @@ Working with arrays and numerical operations.                                   
 Data manipulation and DataFrame operations.                                                         |
 | **4th Practice**  | **Preprocessing**  
 Data cleaning, handling missing values, normalization, and encoding.                                |
-| **5th Practice**      | **Spring Break /**                                                        |
+| **5th Practice**      | **Spring Break**                                                        |
 | **6th Practice**  | **Matplotlib**  
 Creating basic visualizations to explore data.                                                      |
 | **7th Practice**  | **Exploratory Data Analysis (EDA)**  
