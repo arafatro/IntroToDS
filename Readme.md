@@ -18,33 +18,92 @@
 
 ## Updated Course Calendar
 
-Based on our revised lecture order for better student understanding, the topics are reorganized as follows:
+# Introduction to Data Science Practice Course Outline 2024/25/2
 
-| Reference Week    | Practical                                                                                             |
-| ----------------- | ----------------------------------------------------------------------------------------------------- |
-| **1st Practice**  | **Introduction to Data Science**  
-Overview of data science, its applications, and the DS pipeline.                                    |
-| **2nd Practice**  | **NumPy**  
-Working with arrays and numerical operations.                                                       |
-| **3rd Practice**  | **Pandas**  
-Data manipulation and DataFrame operations.                                                         |
-| **4th Practice**  | **Preprocessing**  
-Data cleaning, handling missing values, normalization, and encoding.                                |
-| **5th Practice**      | **Spring Break**                                                        |
-| **6th Practice**  | **Matplotlib**  
-Creating basic visualizations to explore data.                                                      |
-| **7th Practice**  | **Exploratory Data Analysis (EDA)**  
-Techniques for summarizing main characteristics of datasets through visualization and statistics.   |
-| **8th Practice**  | **Regression**  
-Introduction to supervised learning for continuous outcomes.                                        |
-| **9th Practice**  | **Classification**  
-Supervised learning for categorical outcomes.                                                       |
-| **10th Practice**  | **Clustering**  
-Unsupervised learning techniques to identify natural groupings in the data.                         |
-| **11th Practice** | **Model Evaluation and Validation**  
-Assessing model performance, cross-validation, and error metrics.                                   |
-| **12th Practice** | **Pázmány-day - No Classes** |
-| **13th Practice** | **Review Class or Counseling Session**   
+**Date:** February 17, 2025
+
+## Table of Contents
+
+1. [Week 01: Python Environment Setup and IDEs](#python-environment-setup-and-ides)
+2. [Week 02: Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+3. [Week 03: Data Preprocessing and Dimensionality Reduction](#data-preprocessing-and-dimensionality-reduction)
+4. [Week 04: Feature Engineering and Extraction](#feature-engineering-and-extraction)
+5. [Week 05: Mid Exam](#mid-exam)
+6. [Week 06: Model Development with Supervised Learning](#model-development-with-supervised-learning)
+7. [Week 07: Model Development with Unsupervised Learning](#model-development-with-unsupervised-learning)
+8. [Week 08: Model Evaluation and Validation](#model-evaluation-and-validation)
+9. [Week 09: Review Class and Counseling or Consultations](#review-class-and-counseling-or-consultations)
+10. [Week 10: Kaggle Competition Challenge](#kaggle-competition-challenge)
+
+## Python Environment Setup and IDEs
+
+- Overview of Python installation and package management
+- Popular IDEs and platforms:
+  - VSCode
+  - Jupyter Notebook
+  - Anaconda
+  - Google Colab
+  - Kaggle Kernels
+
+## Exploratory Data Analysis (EDA)
+
+- Loading and Inspecting Datasets:
+  - Utilizing `pandas` for data loading and inspection
+- Basic Data Visualization and Descriptive Statistics:
+  - Libraries:
+    - `matplotlib`: Core plotting library
+    - `seaborn`: High-level interface for statistical graphics
+    - `pandas`: Built-in plotting capabilities
+
+## Data Preprocessing and Dimensionality Reduction
+
+- Data cleaning: handling missing values, outliers, and inconsistent formats
+- Data transformation: normalization, scaling, and encoding
+- Techniques for dimensionality reduction (e.g., PCA, t-SNE)
+
+## Feature Engineering and Extraction
+
+- Creating new features from raw data
+- Feature selection and importance ranking
+- Dealing with imbalanced datasets using resampling or algorithmic approaches
+
+## Mid Exam
+
+- Assessment covering foundational topics and hands-on exercises
+
+## Model Development with Supervised Learning
+
+- Classification:
+  - Binary Classification: Logistic Regression, Support Vector Machines (SVM), etc.
+  - Multiclass Classification: Decision Trees, Random Forests, etc.
+  - Ensemble Methods: Techniques like voting classifiers that combine multiple models for improved performance.
+- Regression:
+  - Linear Regression: Basic approach for predicting continuous outcomes.
+  - Tree-Based Regression: Decision Tree Regression, Random Forest Regression.
+  - Ensemble Methods for Regression: Techniques such as gradient boosting and bagging, along with cross-validation for hyperparameter tuning.
+
+## Model Development with Unsupervised Learning
+
+- Clustering techniques: K-Means, Hierarchical Clustering, DBSCAN
+- Dimensionality reduction techniques: PCA, t-SNE
+- Association rule mining and other unsupervised techniques
+
+## Model Evaluation and Validation
+
+- Evaluation metrics for classification (accuracy, precision, recall, F1, ROC-AUC) and regression (RMSE, MAE, R²)
+- Cross-validation techniques: KFold, StratifiedKFold, RepeatedKFold, Jackknife, etc.
+- Visualizing evaluation results (confusion matrices, ROC curves, residual plots)
+
+## Review Class and Counseling or Consultations
+
+- Discuss ML Challenges: Address any challenges encountered with ML models, including issues in deployment, interpretability, and performance.
+- Review Course Topics: Clarify doubts and reinforce understanding of key concepts.
+- Provide Guidance: Offer practical solutions and personalized advice for additional problems or projects.
+
+## Kaggle Competition Challenge
+
+- Hands-on project: Build and deploy a model to compete on a Kaggle dataset
+- Integration of techniques learned throughout the course    
 
 > [!NOTE]
 > Semester Project
