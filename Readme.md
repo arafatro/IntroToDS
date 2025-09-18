@@ -20,7 +20,6 @@
 
 # Introduction to Data Science Practice Course Outline 2025/26/1
 
-**Date:** February 17, 2025
 
 ## Table of Contents
 
