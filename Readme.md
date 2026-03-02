@@ -18,7 +18,7 @@
 
 ## Updated Course Calendar
 
-# Introduction to Data Science Practice Course Outline 2025/26/1
+# Introduction to Data Science Practice Course Outline
 
 
 ## Table of Contents
